@@ -1,0 +1,1 @@
+Projeto que controla o número e os nomes dos animais que o usário possui.

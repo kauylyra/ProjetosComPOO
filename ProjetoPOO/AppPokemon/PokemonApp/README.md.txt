@@ -1,0 +1,1 @@
+Um projeto que o computador interage com o usuário, jogando uma batalha pokemon.
